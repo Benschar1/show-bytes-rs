@@ -1,6 +1,6 @@
 [package]
 name = "show-bytes"
-version = "0.1.1"
+version = "0.2.0"
 authors = ["Tsvi Benschar"]
 license = "GPL-3.0"
 description = "Display bytes as printable ascii with escape sequences as needed"
@@ -9,7 +9,5 @@ documentation = "https://docs.rs/show-bytes/"
 repository = "https://github.com/Benschar1/show-bytes-rs/"
 readme = "README.md"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]

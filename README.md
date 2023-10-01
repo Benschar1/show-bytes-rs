@@ -85,3 +85,7 @@ println(arc_slice.iter());
 let rc_slice = Rc::new(vec![72, 101, 108, 108, 111, 0, 255]);
 println(rc_slice.iter());
 ```
+
+## Links
+
+- [Documentation](https://docs.rs/show-bytes/)
